@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+   <setting id="quality" type="enum" label="Quality" values="HD|480p|360p|240p|" default="0" />
+   <setting id="checkLive" type="bool" label="Check if Favorites are Live" default="true"/>
+   <setting id="preferredCDN" type="bool" label="Prefer CDN1" default="true"/>
+</settings>
